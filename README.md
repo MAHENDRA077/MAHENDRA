@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MAHENDRA
 - 👀 I’m interested in Coding and data science
 - 🌱 I’m currently learning Machine learning algorithms
-- 📫 How to reach me via my mail mahendra.aarumalla@gmail.com
+- 📫 reach me via my mail mahendra.aarumalla@gmail.com
 
 <!---
 MAHENDRA077/MAHENDRA077 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
