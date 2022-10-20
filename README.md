@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MAHENDRA
-- 👀 I’m interested in Coding and data science
-- 🌱 I’m currently learning Machine learning 
+- 👀 I’m interested in Coding and Data science
 - 📫 reach me via my mail mahendra.aarumalla@gmail.com
 
 <!---
